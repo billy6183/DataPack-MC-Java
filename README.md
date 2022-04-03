@@ -1,1 +1,4 @@
-# DataPack-MC-Java
+MC 版本1.16.1
+添加了合成列表
+下载数据包之后请到......版本名字\saves\世界名字\datapacks此文件夹下放置数据包
+注意如果下载下来的数据包里有README.md文件请删除这是在GitHub上的介绍文件
